@@ -13,5 +13,6 @@ class Main {
         double c = a * b;
         System.out.print("THE MULTIPLICATION OF 2 VARIABLE IS: ");
         System.out.println(c);
+        System.out.println("HI");
     }
 }
